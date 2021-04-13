@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Squash Apps Task</string>
+
+    // Reels Page
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="views">Views</string>
+    <string name="likes">Likes</string>
+    <string name="follow">Follow</string>
+    <string name="un_follow">Unfollow</string>
+
+    // Menu
+    <string name="share">Share</string>
+    <string name="menu">Menu</string>
+    <string name="report">Report</string>
+
+</resources>
